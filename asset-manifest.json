@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SafnaRafic/react-tutorial/static/css/main.5d55cd70.chunk.css",
+    "main.js": "/SafnaRafic/react-tutorial/static/js/main.b82f3c70.chunk.js",
+    "main.js.map": "/SafnaRafic/react-tutorial/static/js/main.b82f3c70.chunk.js.map",
+    "runtime-main.js": "/SafnaRafic/react-tutorial/static/js/runtime-main.93cc6f29.js",
+    "runtime-main.js.map": "/SafnaRafic/react-tutorial/static/js/runtime-main.93cc6f29.js.map",
+    "static/js/2.a7247e8d.chunk.js": "/SafnaRafic/react-tutorial/static/js/2.a7247e8d.chunk.js",
+    "static/js/2.a7247e8d.chunk.js.map": "/SafnaRafic/react-tutorial/static/js/2.a7247e8d.chunk.js.map",
+    "index.html": "/SafnaRafic/react-tutorial/index.html",
+    "static/css/main.5d55cd70.chunk.css.map": "/SafnaRafic/react-tutorial/static/css/main.5d55cd70.chunk.css.map",
+    "static/js/2.a7247e8d.chunk.js.LICENSE.txt": "/SafnaRafic/react-tutorial/static/js/2.a7247e8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93cc6f29.js",
+    "static/js/2.a7247e8d.chunk.js",
+    "static/css/main.5d55cd70.chunk.css",
+    "static/js/main.b82f3c70.chunk.js"
+  ]
+}
