@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import App from './App';
-import App from './Api';
+import App from './App';
+// import App from './Api';
 import './index.css';
 
 // Removing class and creating a new file App.js
@@ -13,5 +13,5 @@ import './index.css';
 //       </div>
 //     )
 //   }
-// }
+// }      
 ReactDOM.render(<App />, document.getElementById('root'))
